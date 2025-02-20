@@ -1,7 +1,8 @@
 create a rest api using json
 
-GET /users = List all users
-GET /users/1 -get the user with id 1
+GET/users = gives an html documnet
+GET /api/users = List all users in json form
+GET /api/users/1 -get the user with id 1 in json form
 
 POST /users =create new users
 POSR /user/1 = edit the user with id1
